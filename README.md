@@ -1,4 +1,4 @@
-> # Notice: Beta recalled<br/>
+> ## Notice: Beta recalled<br/>
 > The pre-trained model weights for this project have been removed due to potential legal complications.<br/>
 > This repository was built primarily for experimentation and for getting feedback.<br/>
 > A commercial-grade version featuring pipeline improvements can be expected in the future.<br/>
