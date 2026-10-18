@@ -10,6 +10,7 @@ AI-powered texture de-lighting for **photogrammetry and scanned assets**.
 This tool removes environmental lighting from 3D scanned assets, producing a cleaner approximation of the object's true surface color (albedo).
 
 ![Viewport Preview](https://github.com/vdmrcll/ai-texture-delightier/blob/main/preview.jpg)
+*Figure 1: De-lighted and original assets comparison*
 
 ## Requirements
 
